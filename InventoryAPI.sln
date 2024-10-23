@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collectionofnumbers", "collectionofnumbers\collectionofnumbers.csproj", "{08F49739-A621-4021-B9C1-16D159828C29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryAPI", "InventoryAPI.csproj", "{D578099A-25BD-41D1-B0DE-13837B2068E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08F49739-A621-4021-B9C1-16D159828C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08F49739-A621-4021-B9C1-16D159828C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08F49739-A621-4021-B9C1-16D159828C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08F49739-A621-4021-B9C1-16D159828C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D578099A-25BD-41D1-B0DE-13837B2068E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D578099A-25BD-41D1-B0DE-13837B2068E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D578099A-25BD-41D1-B0DE-13837B2068E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D578099A-25BD-41D1-B0DE-13837B2068E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D3915EF1-D1F0-49D6-9508-48DD731182C9}
+		SolutionGuid = {E2F2DEF1-AC68-45AA-A4BF-4411C62312B8}
 	EndGlobalSection
 EndGlobal
